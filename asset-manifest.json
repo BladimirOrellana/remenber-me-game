@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/remenber-me-game/static/css/main.237a7e9c.chunk.css",
+    "main.js": "/remenber-me-game/static/js/main.cfe53b2f.chunk.js",
+    "main.js.map": "/remenber-me-game/static/js/main.cfe53b2f.chunk.js.map",
+    "runtime-main.js": "/remenber-me-game/static/js/runtime-main.7231e38e.js",
+    "runtime-main.js.map": "/remenber-me-game/static/js/runtime-main.7231e38e.js.map",
+    "static/js/2.eceaffce.chunk.js": "/remenber-me-game/static/js/2.eceaffce.chunk.js",
+    "static/js/2.eceaffce.chunk.js.map": "/remenber-me-game/static/js/2.eceaffce.chunk.js.map",
+    "index.html": "/remenber-me-game/index.html",
+    "precache-manifest.afb3c13c95432915db5efce7e95dae97.js": "/remenber-me-game/precache-manifest.afb3c13c95432915db5efce7e95dae97.js",
+    "service-worker.js": "/remenber-me-game/service-worker.js",
+    "static/css/main.237a7e9c.chunk.css.map": "/remenber-me-game/static/css/main.237a7e9c.chunk.css.map",
+    "static/media/style.css": "/remenber-me-game/static/media/connectwork.2afaf81a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7231e38e.js",
+    "static/js/2.eceaffce.chunk.js",
+    "static/css/main.237a7e9c.chunk.css",
+    "static/js/main.cfe53b2f.chunk.js"
+  ]
+}
