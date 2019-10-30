@@ -1,0 +1,50 @@
+*, ::before, ::after {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: grey;
+  background-image: url("./../images/connectwork.png"); }
+
+/* Color Theme Swatches in Hex */
+.nav-score {
+  padding: 30px;
+  text-align: center;
+  background: #615ABF;
+  font-family: 'Modak', cursive;
+  font-size: 20px; }
+
+.header {
+  font-family: 'Big Shoulders Text', cursive;
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+  padding: 100px 10px 100px 10px;
+  background-image: url("./../images/connectwork.png"); }
+
+.card-container {
+  margin-top: 190px; }
+
+.character-card {
+  padding-top: 10px; }
+
+.character-image {
+  width: 200px;
+  height: 200px; }
+
+@media only screen and (max-width: 600px) {
+  .card-container {
+    margin-top: 190px; }
+  .character-card {
+    padding-top: 10px; }
+  .character-image {
+    width: 80px;
+    height: 80px; } }
+
+.nav-score {
+  padding: 20px;
+  text-align: center;
+  background: #615ABF;
+  font-family: 'Modak', cursive;
+  font-size: 20px;
+  color: white; }
